@@ -1,4 +1,4 @@
-globalx_globaly()
+globalX_globalY()
 
 // Warning...
 // if you want to plot odd chambers, comment out the macro which is written for even chambers, want to plot even chambers then command out the macro written for odd chambers. In the following, it has been speicified where macro both even chambers and odd chambers starts from and ends.By default macro for even chambers has been commented out
